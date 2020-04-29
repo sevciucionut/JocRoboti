@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Capcane.h
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Harta.h
+Capcane.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Capcane.h
+Item1.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Item1.h
+Item2.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Item2.h
+Item3.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Item3.h
+Robot1.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Robot1.h
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Item1.h
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Item2.h
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Item3.h
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Robot1.h
+
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/main.cpp
+iostream
+-
+Harta.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Harta.h
+Robot1.h
+C:/Users/Sevciuc/OneDrive/Desktop/JocRoboti/Robot1.h
+
